@@ -1,4 +1,4 @@
-package solutions.twoSum;
+package solutions.twosum;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class SolutionTest {
 
-    private Solution solution;
+    public Solution solution;
 
     @BeforeEach
     public void setup() {
