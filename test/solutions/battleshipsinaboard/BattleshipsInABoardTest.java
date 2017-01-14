@@ -5,9 +5,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class SolutionTest {
+class BattleshipsInABoardTest {
 
-    public Solution solution;
+    private Solution solution;
 
     @BeforeEach
     void setUp() {
