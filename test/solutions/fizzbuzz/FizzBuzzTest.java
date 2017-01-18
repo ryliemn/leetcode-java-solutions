@@ -19,7 +19,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    void fizzBuzz() {
+    void testGivenExample() {
         int n = 15;
         List<String> expected = new ArrayList<>(Arrays.asList("1", "2", "Fizz", "4", "Buzz", "Fizz", "7", "8", "Fizz",
                 "Buzz", "11", "Fizz", "13", "14", "FizzBuzz"));
