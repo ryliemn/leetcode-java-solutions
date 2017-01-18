@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ArithmeticSlicesTest {
 
-    Solution solution;
+    private Solution solution;
 
     @BeforeEach
     void setUp() {
